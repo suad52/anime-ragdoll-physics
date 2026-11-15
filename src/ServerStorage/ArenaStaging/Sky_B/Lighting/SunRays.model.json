@@ -1,0 +1,10 @@
+{
+  "className": "SunRaysEffect",
+  "properties": {
+    "SerializedOverrides": {
+      "BinaryString": ""
+    },
+    "Spread": 0.7129999995231628,
+    "Intensity": 0.05000000074505806
+  }
+}

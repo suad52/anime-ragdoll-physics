@@ -1,0 +1,10 @@
+{
+  "className": "DepthOfFieldEffect",
+  "properties": {
+    "FarIntensity": 0.08399999886751175,
+    "SerializedOverrides": {
+      "BinaryString": ""
+    },
+    "Enabled": false
+  }
+}

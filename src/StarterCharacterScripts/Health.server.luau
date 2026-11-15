@@ -1,0 +1,3 @@
+-- StarterCharacterScripts.Health (2026-11-08): an empty stand-in for Roblox's default Health script, so a character's
+-- health never regenerates on its own ("take away regen"). Health comes back from a player kill instead: +KILL_HEAL
+-- (ReplicatedStorage.PvPShared.Balance) for the killer, ServerScriptService.PvPKillHeal.

@@ -1,0 +1,14 @@
+{
+  "className": "Sky",
+  "properties": {
+    "SkyboxUpContent": "rbxassetid://18351377189",
+    "SkyboxBackContent": "rbxassetid://18351376859",
+    "SkyboxLeftContent": "rbxassetid://18351376469",
+    "SkyboxDownContent": "rbxassetid://18351374919",
+    "SerializedOverrides": {
+      "BinaryString": ""
+    },
+    "SkyboxFrontContent": "rbxassetid://18351376800",
+    "SkyboxRightContent": "rbxassetid://18351376457"
+  }
+}

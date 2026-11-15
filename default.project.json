@@ -1,0 +1,165 @@
+{
+  "name": "anime-ragdoll-physics",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedFirst": {
+      "$className": "ReplicatedFirst",
+      "$properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        }
+      },
+      "$path": "src/ReplicatedFirst"
+    },
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "$properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        }
+      },
+      "$path": "src/ReplicatedStorage"
+    },
+    "ServerScriptService": {
+      "$className": "ServerScriptService",
+      "$properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        }
+      },
+      "$path": "src/ServerScriptService"
+    },
+    "ServerStorage": {
+      "$className": "ServerStorage",
+      "$properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        }
+      },
+      "$path": "src/ServerStorage"
+    },
+    "StarterGui": {
+      "$className": "StarterGui",
+      "$properties": {
+        "ScreenOrientation": "Sensor",
+        "SerializedOverrides": {
+          "BinaryString": ""
+        }
+      },
+      "$path": "src/StarterGui"
+    },
+    "StarterPack": {
+      "$className": "StarterPack",
+      "$properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        }
+      },
+      "$path": "src/StarterPack"
+    },
+    "StarterPlayer": {
+      "$className": "StarterPlayer",
+      "StarterCharacterScripts": {
+        "$className": "StarterCharacterScripts",
+        "$properties": {
+          "SerializedOverrides": {
+            "BinaryString": ""
+          }
+        },
+        "$path": "src/StarterCharacterScripts"
+      },
+      "StarterPlayerScripts": {
+        "$className": "StarterPlayerScripts",
+        "$properties": {
+          "SerializedOverrides": {
+            "BinaryString": ""
+          }
+        },
+        "$path": "src/StarterPlayerScripts"
+      },
+      "$properties": {
+        "AvatarJointUpgrade": "Enabled",
+        "CameraMaxZoomDistance": 128.0,
+        "CharacterBreakJointsOnDeath": false,
+        "CharacterUseJumpPower": false,
+        "EnableMouseLockOption": false,
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "UseImprovedCharacterEvents": {
+          "Enum": 0
+        }
+      }
+    }
+  },
+  "syncbackRules": {
+    "ignoreTrees": [
+      "ServerStorage/Backup_2026-11-13_ringmap",
+      "ServerStorage/Backup_2026-11-13_openmap",
+      "ServerStorage/Backup_2026-11-13_hitlag",
+      "ServerStorage/Backup_2026-11-13_trees",
+      "ServerStorage/Backup_2026-11-13_grinderpush",
+      "ServerStorage/Backup_2026-11-13_look",
+      "ServerStorage/Backup_2026-11-13_lake",
+      "ServerStorage/Backup_2026-11-13_teslarocket",
+      "ServerStorage/Backup_2026-11-13_wanderers",
+      "ServerStorage/Backup_2026-11-13_reactions",
+      "ServerStorage/Backup_2026-11-13_staydown",
+      "ServerStorage/Backup_2026-11-13_hud",
+      "ServerStorage/Backup_2026-11-13_normalkit",
+      "ServerStorage/Backup_2026-11-13_modes",
+      "ServerStorage/Backup_2026-11-13_swings",
+      "ServerStorage/Backup_2026-11-13_shop",
+      "ServerStorage/Backup_2026-11-13_quota",
+      "ServerStorage/Backup_2026-11-13_signs",
+      "ServerStorage/Backup_2026-11-13_signlegs",
+      "ServerStorage/Backup_2026-11-14_sandboxshop",
+      "ServerStorage/Backup_2026-11-13_disaster",
+      "ServerStorage/Backup_2026-11-13_lab",
+      "ServerStorage/Backup_2026-11-14_compact",
+      "ServerStorage/Backup_2026-11-14_ground",
+      "ServerStorage/Backup_2026-11-14_nodash",
+      "ServerStorage/Backup_2026-11-14_mobile",
+      "ServerStorage/Backup_2026-11-14_tower",
+      "ServerStorage/Backup_2026-11-14_gore",
+      "ServerStorage/Backup_2026-11-14_grinderground",
+      "ServerStorage/Backup_2026-11-14_firepit",
+      "ServerStorage/Backup_2026-11-14_targetcard",
+      "ServerStorage/Backup_2026-11-14_spin",
+      "ServerStorage/Backup_2026-11-14_totem",
+      "ServerStorage/Backup_2026-11-14_workshopspawns",
+      "ServerStorage/Backup_2026-11-14_hudpass",
+      "ServerStorage/Backup_2026-11-14_crushersign",
+      "ServerStorage/Backup_2026-11-14_icons",
+      "ServerStorage/Backup_2026-11-14_powerwounds",
+      "ServerStorage/Backup_2026-11-14_theme",
+      "ServerStorage/Backup_2026-11-14_hudbuttons",
+      "ServerStorage/Backup_2026-11-14_noinventorytile",
+      "ServerStorage/Backup_2026-11-14_ownership",
+      "ServerStorage/Backup_2026-11-14_gridgrass",
+      "ServerStorage/Backup_2026-11-14_baseplate",
+      "ServerStorage/Backup_2026-11-14_maps",
+      "ServerStorage/Backup_2026-11-14_green",
+      "ServerStorage/Backup_2026-11-14_ruinsbreak",
+      "ServerStorage/Backup_2026-11-14_leftrail",
+      "ServerStorage/Backup_2026-11-14_trampspawns",
+      "ServerStorage/Backup_2026-11-14_ruinswalls",
+      "ServerStorage/Backup_2026-11-14_kiosks",
+      "ServerStorage/Backup_2026-11-14_startruins",
+      "ServerStorage/Backup_2026-11-15_onboardlist",
+      "ServerStorage/Backup_2026-11-15_crowds",
+      "ServerStorage/Backup_2026-11-15_noarch",
+      "ServerStorage/Backup_2026-11-15_crowd100",
+      "ServerStorage/Backup_2026-11-15_spawnatonce",
+      "ServerStorage/Backup_2026-11-15_settings",
+      "ServerStorage/Backup_2026-11-15_settingspill",
+      "ServerStorage/Backup_2026-11-15_killstack",
+      "ServerStorage/Backup_2026-11-15_gunpick",
+      "ServerStorage/Backup_2026-11-15_shiftlockkey",
+      "ServerStorage/Backup_2026-11-15_notaunts",
+      "ServerStorage/Backup_2026-11-15_names",
+      "ServerStorage/Backup_2026-11-15_kanji",
+      "ServerStorage/Backup_2026-11-15_floodlag"
+    ]
+  }
+}
